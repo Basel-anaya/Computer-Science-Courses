@@ -1,7 +1,7 @@
 # Computer-Science-Courses
 This is a collection of free online computer science courses on several topics.
 
-![Computer Science Courses](https://user-images.githubusercontent.com/81964452/172923258-bae78aa5-6b46-4ef6-b7d3-d8b4d0a2642b.png)
+![Computer Science Courses](https://user-images.githubusercontent.com/81964452/172925433-0360fd3f-0aee-4273-969d-3598b6565ce2.png)
 
 Note: this list is always being updated
 
@@ -27,6 +27,6 @@ Note: this list is always being updated
 - Robotics
 - Computational Finance
 - Blockchain Development
-- Misc
+- Others
 
 ---
