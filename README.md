@@ -1,7 +1,7 @@
 # Computer-Science-Courses
 This is a collection of free online computer science courses on several topics.
 
-![Computer Science Courses](https://user-images.githubusercontent.com/81964452/172925433-0360fd3f-0aee-4273-969d-3598b6565ce2.png)
+![Computer Science Courses](https://user-images.githubusercontent.com/81964452/178121888-2cbdb350-567a-4a27-8a57-4b5a50001288.png)
 
 Note: this list is always being updated
 
